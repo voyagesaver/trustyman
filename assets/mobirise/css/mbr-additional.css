@@ -1382,17 +1382,6 @@ body {
     flex: auto!important;
   }
 }
-.jq-selectbox li:hover,
-.jq-selectbox li.selected {
-  background-color: #149dcc;
-  color: #ffffff;
-}
-.jq-selectbox .jq-selectbox__trigger-arrow {
-  border-top-color: contrast(currentColor, #000000, #ffffff, 30%);
-}
-.jq-selectbox:hover .jq-selectbox__trigger-arrow {
-  border-top-color: #149dcc;
-}
 .cid-rnwQt1yPwQ .navbar {
   background: #232323;
   transition: none;
@@ -1792,53 +1781,50 @@ body {
 .cid-rnwQt1yPwQ .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-rnwQNSQ2fo {
-  padding-top: 30px;
+.cid-rnA8DCaQYS {
+  padding-top: 0px;
   padding-bottom: 0px;
+  background-color: #0f0f0f;
 }
-.cid-rnwQNSQ2fo .mbr-section-subtitle {
+.cid-rnA8DCaQYS .mbr-section-subtitle {
   color: #767676;
-  text-align: center;
 }
-.cid-rnwQNSQ2fo .formoid {
+.cid-rnA8DCaQYS .formoid {
   margin: auto;
 }
-.cid-rnwQNSQ2fo .form-control {
+.cid-rnA8DCaQYS .form-control {
   padding-left: 1.5rem;
   padding-right: 1.5rem;
 }
-.cid-rnwQNSQ2fo .input-group-btn .btn {
+.cid-rnA8DCaQYS .input-group-btn .btn {
   padding-top: 1rem;
   padding-bottom: 1rem;
   margin: 0 !important;
 }
-.cid-rnwQNSQ2fo a:not([href]):not([tabindex]) {
+.cid-rnA8DCaQYS a:not([href]):not([tabindex]) {
   color: #fff;
 }
-.cid-rnwQNSQ2fo a.btn-white:not([href]):not([tabindex]) {
+.cid-rnA8DCaQYS a.btn-white:not([href]):not([tabindex]) {
   color: #333;
 }
 @media (max-width: 768px) {
-  .cid-rnwQNSQ2fo .mbr-form .row {
+  .cid-rnA8DCaQYS .mbr-form .row {
     -webkit-flex-direction: column;
     flex-direction: column;
     -webkit-align-items: center;
     align-items: center;
   }
-  .cid-rnwQNSQ2fo .form-group,
-  .cid-rnwQNSQ2fo .input-group-btn,
-  .cid-rnwQNSQ2fo .input-group-btn .btn {
+  .cid-rnA8DCaQYS .form-group,
+  .cid-rnA8DCaQYS .input-group-btn,
+  .cid-rnA8DCaQYS .input-group-btn .btn {
     max-width: 300px;
     width: 100%;
   }
 }
 @media (min-width: 769px) {
-  .cid-rnwQNSQ2fo .mbr-form .row > * {
+  .cid-rnA8DCaQYS .mbr-form .row > * {
     padding: 0 0.5rem;
   }
-}
-.cid-rnwQNSQ2fo .mbr-section-subtitle B {
-  color: #f7ed4a;
 }
 .cid-rnyKO2I7Ad {
   padding-top: 90px;
